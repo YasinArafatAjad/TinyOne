@@ -1,0 +1,45 @@
+/* Common Css Start */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+}
+.container{
+    max-width: 930px;
+    margin: 0 auto;
+}
+/* Common Css Stop */
+/* Header Start */
+.nav-item ul li a{
+    font-family: 'Helvetica Neue', sans-serif;
+}
+/* Header Stop */
+/* Banner Start */
+.banner-content h2,
+.banner-content h4,
+.banner-content p{
+    font-family: 'PT Sans', sans-serif;
+}
+/* Banner Stop */
+/* Features Start */
+.tittle h2,
+.tittle p{
+    font-family: 'PT Sans', sans-serif;
+}
+.feature-item-col-2 h4,
+.feature-item-col-2 p{
+    font-family: 'PT Sans', sans-serif;
+}
+/* Features Stop */
+/* Footer Start */
+.footer-item p a{
+    font-family: 'PT Sans', sans-serif;    
+}
+/* Footer Stop */
